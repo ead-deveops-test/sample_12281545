@@ -1,0 +1,23 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Sample2"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
+  projectName: 
+  moduleName: "Sample2"
+  informationAuthor: user:guest
+  modality: "Sample2"
+  bodyParts: "Sample2"
+  processingPurpose: "Sample2"
+  protocol: "Sample2"
+  algorithmType: "Sample2"
+  packageType: "Sample2"
+  supportedOs: "Sample2"
+  sourceCodeLanguage: 
+  developmentStatus: "Sample2"
+  linkToProjectPage: "Sample2"
