@@ -9,15 +9,15 @@ spec:
   owner: user:guest
   lifecycle: experimental
   projectName: 
-  moduleName: "sample_12281545"
+  moduleName: "BrainDetection_12281545"
   informationAuthor: user:guest
   modality: "CT"
   bodyParts: "Brain"
-  processingPurpose: "Sample2"
+  processingPurpose: "Detection"
   protocol: "Sample2"
-  algorithmType: "Sample2"
-  packageType: "Sample2"
-  supportedOs: "Sample2"
-  sourceCodeLanguage: 
-  developmentStatus: "Sample2"
+  algorithmType: "classic neural network"
+  packageType: "dll"
+  supportedOs: "Windows"
+  sourceCodeLanguage: "C" 
+  developmentStatus: "Productized"
   linkToProjectPage: "Sample2"
