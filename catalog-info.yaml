@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "Sample2"
+  name: "sample_12281545"
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
@@ -9,10 +9,10 @@ spec:
   owner: user:guest
   lifecycle: experimental
   projectName: 
-  moduleName: "Sample2"
+  moduleName: "sample_12281545"
   informationAuthor: user:guest
-  modality: "Sample2"
-  bodyParts: "Sample2"
+  modality: "CT"
+  bodyParts: "Brain"
   processingPurpose: "Sample2"
   protocol: "Sample2"
   algorithmType: "Sample2"
